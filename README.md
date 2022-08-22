@@ -1,5 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonch0314&show_icons=true&theme=dracula)
+
 **Languages and tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
