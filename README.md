@@ -18,5 +18,4 @@
 
 <p>
 hi, I'm Chanho Won, a passionate self-taught front-end web developer.
-Thank You for Coming
 </p>
