@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonch0314&show_icons=true&theme=dracula)
 
@@ -18,6 +18,5 @@
 
 <p>
 hi, I'm Chanho Won, a passionate self-taught front-end web developer.
+Thank You for Coming
 </p>
-
-
