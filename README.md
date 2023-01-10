@@ -8,7 +8,7 @@ https://github.com/6810779s/6810779s
 -->  
 #
 <h3>🎲 I love...</h3>
-<p>🛹Skateboard,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🕹️Games,&nbsp;&nbsp;🧗🏻‍♂️Climbing,&nbsp;&nbsp;🎮Games</p>
+<p>🛹Skateboard,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🕹️Games,&nbsp;&nbsp;🧗🏻‍♂️Climbing</p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
