@@ -12,7 +12,7 @@ https://github.com/6810779s/6810779s
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/></p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/></p>
 
