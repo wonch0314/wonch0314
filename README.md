@@ -1,12 +1,13 @@
 <div align="center">
+<!--
 <h3>🍀 Me 🍀</h3>
-<p><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+https://github.com/6810779s/6810779s
 <p>Hi There! I'm a frontEnd developer.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
-  
+-->  
 #
-<h3>❤️ I love...</h3>
+<h3>🎲 I love...</h3>
 <p>🛹Skateboard,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🕹️Games,&nbsp;&nbsp;🧗🏻‍♂️Climbing,&nbsp;&nbsp;🎮Games</p>
   
 #
