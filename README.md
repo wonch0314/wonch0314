@@ -5,10 +5,11 @@ https://github.com/6810779s/6810779s
 <p>Hi There! I'm a frontEnd developer.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
--->  
 #
 <h3>🎲 I love...</h3>
 <p>🛹Skateboard,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🕹️Games,&nbsp;&nbsp;🧗🏻‍♂️Climbing</p>
+-->  
+
   
 #
   <h2>🔥 Tech Stack 🔥</h2>
